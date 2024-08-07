@@ -1,2 +1,2 @@
-##JUEGO ADIVINANZA
+## JUEGO ADIVINANZA
 Archivo descripcion
